@@ -1,0 +1,6 @@
+Repo: https://github.com/marceloleandrofernandez/DirMod-PF.git
+Instalación SDK: https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu
+Command Line Tools: https://docs.microsoft.com/en-us/dotnet/core/tools/
+dotnet new --list: lista los proyectos que se pueden crear
+dotnet new webapi: crea una api
+
